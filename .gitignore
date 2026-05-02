@@ -1,0 +1,21 @@
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editor state
+.vscode/
+.idea/
+
+# Generated files
+dist/
+build/
+__pycache__/
+*.log
