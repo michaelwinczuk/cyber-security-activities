@@ -18,6 +18,7 @@ I am a highly motivated military veteran with 20 years of disciplined service an
 ## Repository Structure
 
 - `activities/` - professional statements, reflections, and learning milestones
+- `certificates/` - completed certificates and training records
 - `labs/` - hands-on technical labs and cloud security exercises
 - `notes/` - study notes, checklists, and reference material
 - `writeups/` - project summaries, incident-style reports, and portfolio-ready documentation
