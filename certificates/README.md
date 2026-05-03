@@ -5,3 +5,4 @@ This folder contains completed certificates and training records related to cybe
 ## Completed
 
 - `google-cyber-security-fundamentals.pdf` - Google Cyber Security Fundamentals
+- `cybersecurity-certificate-2026-05-02.pdf` - Cybersecurity certificate
